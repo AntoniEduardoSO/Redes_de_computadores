@@ -2,7 +2,6 @@ Linguagem: Python v3.10.5
 
 É necessário que o servidor esteja on-line para utilizar o arquivo “cliente.py”.
 
-uso:
 1 passo: estabelecimento de conexão.
 
 colocar o nome de usuário 
